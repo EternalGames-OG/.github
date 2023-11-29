@@ -2,7 +2,7 @@
 
 ![Game Logo](link/to/logo.png)
 
-Welcome to the official repository of **Unknown Odyssey** - a thrilling first-person shooter developed by [Your Company Name].
+Welcome to the official repository of **Ethernal Games** - a game development company
 
 ## Table of Contents
 - [About the Game](#about-the-game)
