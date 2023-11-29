@@ -1,4 +1,4 @@
-# Unknown Odyssey
+# Ethernal Games
 
 ![Game Logo](link/to/logo.png)
 
