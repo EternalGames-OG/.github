@@ -1,1 +1,40 @@
-# .github
+# Unknown Odyssey
+
+![Game Logo](link/to/logo.png)
+
+Welcome to the official repository of **Unknown Odyssey** - a thrilling first-person shooter developed by [Your Company Name].
+
+## Table of Contents
+- [About the Game](#about-the-game)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
+
+## About the Game
+
+**Unknown Odyssey** is an exciting first-person shooter set in a dynamically generated world. Players embark on a journey through random stages filled with unique enemies, challenging bosses, and a variety of characters, each with their own special abilities and arsenal of weapons.
+
+## Features
+
+- **Randomly Generated Stages:** Explore diverse environments with each playthrough, keeping the gameplay fresh and unpredictable.
+
+- **Multiple Characters:** Choose from a selection of characters, each with unique abilities that cater to different playstyles.
+
+- **Variety of Weapons:** Arm yourself with an arsenal of powerful and diverse weapons, each offering a distinct combat experience.
+
+- **Epic Boss Battles:** Confront formidable bosses that pose a significant challenge and reward skillful gameplay.
+
+- **Immersive Enemies:** Encounter a range of unique and challenging enemies that keep players on their toes.
+
+## Getting Started
+
+Follow these steps to get the game up and running on your local machine:
+
+1. **Prerequisites:**
+   - [Unreal Engine](https://www.unrealengine.com/) installed
+   - [Git](https://git-scm.com/) installed
+
+2. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/yourusername/unknown-odyssey.git
