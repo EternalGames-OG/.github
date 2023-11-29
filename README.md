@@ -7,8 +7,7 @@ Welcome to the official repository of **Unknown Odyssey** - a thrilling first-pe
 ## Table of Contents
 - [About the Game](#about-the-game)
 - [Features](#features)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
+- [The Team](#Team)
 - [License](#license)
 
 ## About the Game
@@ -27,13 +26,10 @@ Welcome to the official repository of **Unknown Odyssey** - a thrilling first-pe
 
 - **Immersive Enemies:** Encounter a range of unique and challenging enemies that keep players on their toes.
 
-## Getting Started
-
-Follow these steps to get the game up and running on your local machine:
-
-1. **Prerequisites:**
-   - [Unreal Engine](https://www.unrealengine.com/) installed
-   - [Git](https://git-scm.com/) installed
+## **Team**
+   - [Marco](https://github.com/Lordbobbit)
+   - [Matthias](https://github.com/matthias-codes)
+   - [Florian](https://github.com/flooorrianooo)
 
 2. **Clone the Repository:**
    ```bash
